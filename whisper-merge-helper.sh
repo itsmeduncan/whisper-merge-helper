@@ -11,7 +11,7 @@ forced=""
 
 usage()
 {
-  echo "$(basename "$0") -- program help with merging StatsD whisper stores
+  echo "$(basename "$0") -- programmatic help with merging StatsD whisper stores
 
   where:
     -?  show this help text

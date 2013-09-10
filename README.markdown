@@ -2,7 +2,7 @@
 
 ## Usage
 
-    whisper-merge-helper.sh -- program help with merging StatsD whisper stores
+    whisper-merge-helper.sh -- programmatic help with merging StatsD whisper stores
 
     where:
       -?  show this help text
